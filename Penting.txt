@@ -1,0 +1,11 @@
+Nama : Mutiara Sholawati
+NIM  : 1818097 / B
+
+Judul : Kucek Laundry
+Database : kucek
+Table : laundry
+
+variabel API key --> KODE-API
+Api key : (yang belum digunakan) --> limit 2 kali (GET)
+1234567
+9876543
